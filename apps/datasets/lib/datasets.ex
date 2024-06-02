@@ -13,6 +13,6 @@ defmodule Datasets do
 
   """
   def hello do
-    :world
+    IO.puts("Hello, I'm the datasets")
   end
 end
